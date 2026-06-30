@@ -1,0 +1,28 @@
+{
+  "domains": [
+    "amazon.com",
+    "amazonses.com",
+    "apple.com",
+    "brevo.com",
+    "gmail.com",
+    "google.com",
+    "googlemail.com",
+    "hotmail.com",
+    "hubspot.com",
+    "icloud.com",
+    "live.com",
+    "mailchimp.com",
+    "mailgun.org",
+    "microsoft.com",
+    "outlook.com",
+    "protonmail.com",
+    "salesforce.com",
+    "sendgrid.net",
+    "twilio.com",
+    "yahoo.co.uk",
+    "yahoo.com",
+    "zendesk.com",
+    "zoho.com"
+  ],
+  "count": 23
+}
